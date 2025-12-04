@@ -1,6 +1,7 @@
 import random
 from datetime import datetime
 
+
 # ===============================
 # 📌 DATA FOR CATEGORIES
 # ===============================
@@ -39,7 +40,7 @@ categories = {
 }
 
 # 🎉 Fun emojis
-emojis = ["😂", "🤣", "😱", "🔥", "🙈", "🇮🇳", "🎉", "✨", "😳", "🐒", "😜"]
+emojis = ["😂", "🤣", "😱", "🔥", "🙈", "🎉", "✨", "😳", "🐒", "😜"]
 
 # File name for saving headlines
 file_name = "headlines_pro.txt"
